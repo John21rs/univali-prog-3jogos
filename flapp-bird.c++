@@ -9,7 +9,7 @@ using namespace std;
 /*Autores:João Pedro Barreto Arriaga Fernandes, Jamao Khayf De Mello Bernal e
 João Victor Rodrigues Santos*/
 
-/*FLAP-BIRD*/
+/*FLAPPY-BIRD*/
 
 
 int main()
